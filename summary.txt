@@ -2,3 +2,5 @@ This project is to show what I learned on skill modules
 I learned how to stage changes using git add -p.
 
 Practiced creating meaningful commits.
+Practiced partial staging with Git.
+This section for what I learned from the Git tutorial.
