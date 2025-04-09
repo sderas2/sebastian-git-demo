@@ -4,3 +4,5 @@ I learned how to stage changes using git add -p.
 Practiced creating meaningful commits.
 Practiced partial staging with Git.
 This section for what I learned from the Git tutorial.
+I used Git to practice working with different branches, picking which changes to save using , and writing clear messages so others can understand what I did just like I will have to when I am a software engineer.
+I used Git to practice working with different branches, picking which changes to save using `-p`, and writing clear messages so others can understand what I did just like I will have to when I am a software engineer.
